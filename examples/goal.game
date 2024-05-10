@@ -1,0 +1,10 @@
+fn main()
+    let mut x := 4;
+    let y : u8 = 255;
+    if x < (i32)y {
+        x += 4;
+    } elif x < 1 {
+        x -= 3;
+    }
+    ret x;
+}

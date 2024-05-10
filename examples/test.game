@@ -1,0 +1,7 @@
+let x = 0;
+if x {
+    x = 1;
+} elif x + 2 {
+    x = 2;
+}
+ret x;
