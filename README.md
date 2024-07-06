@@ -1,2 +1,2 @@
 # Game Script
-Programing language for games.
+Compiled programing language for games.
